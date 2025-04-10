@@ -13,7 +13,7 @@
 
 ### 一键部署
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/chawspittle/api_gateway_worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ten-o/api_gateway_worker)
 
 1. 点击上方按钮
 2. 登录你的 Cloudflare 账号
